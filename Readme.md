@@ -10,6 +10,10 @@ This application provides us with the following information about the entered l
 ##### 5. Description 
 ## IDE
 - Jupyter NoteBook
+
+## Mapview
+![Screenshot (457)](https://user-images.githubusercontent.com/96251824/190579928-7f30bd55-61e7-40f0-ad6e-7633bb0c4d2f.png)
+
 ## Prediction Models Used
 - Linear regression
 - XGBoost
